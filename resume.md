@@ -18,7 +18,8 @@ Bangalore, India
 *Senior Consultant* 	Jun 2013 - Aug 2012  
 
 * Mobile applications `phonegap`, `javascript`, `sencha touch`	Jan 2012 - Aug 2012  
-* Sound Processing backend middle-man server for [Music Mastermind](www.musicmastermind.com) `c++`, `fastcgi`, `lame`, `streaming`, `scaling` 	Jun 2010 - Jan 2012  
+* Sound Processing backend middle-man server for [Music Mastermind](www.musicmastermind.com) `c++`,
+`fastcgi`, `lame`, `streaming`, `audio-fingerprinting, aws` 	Jun 2010 - Jan 2012  
 
 #### GoLive Gaming Solutions 	Hyderabad
 *co-founder* 			Sep 2007 - Apr 2010  
@@ -26,7 +27,7 @@ Bangalore, India
 * Game Consulting	Apr 2009 - Apr 2010  
 * Competitive Gaming League `dota`, `counter strike` 	Sep 2007 - Apr 2009  
 
-#### ATI, *now* AMD	Hyderabad
+#### ATI (now AMD)	Hyderabad
 *Enginer*	Feb 2006 - Aug 2007  
 
 * Game Performance Lab `starting member`  
@@ -42,5 +43,5 @@ Bachelor of Technology in Computer Science and Engineering	April 2003
 
 ### Misc
 * Modest sample of programming interests at [github](https://github.com/ab-su-rd)  
-* Played for India at the World Cyber Games 2003 `age of mythology`  
+* Played for India at the World Cyber Games 2003 `age of empires`  
 * Development Environment `vim`, `tmux`, `unix`
