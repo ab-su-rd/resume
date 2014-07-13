@@ -1,47 +1,48 @@
-## Sreenath Guttikonda
+## SREENATH GUTTIKONDA
 Bangalore, India  
-+91 7406774507  
+[+91-7406774507](tel:+917406774507)  
 <sreenath.g@gmail.com>  
 
-### Professional Experience
-#### Jutera Labs 				Bangalore
-*Senior Software Engineer*		Oct 2012 - present  
+### PROFESSIONAL EXPERIENCE
 
-* OpenRTB Bidders for a Demand Side Platform `php`		Feb 2014 - present  
-* Data Intelligence scripts using Hadoop and Mahout `java`, `php`	Dec 2013 - Feb 2013  
-* Html5 games `yeoman`, `coffeescript`, `canvas`	Aug 2013 - Dec 2013  
-* Chrome and Perk extensions `autoupdate`, `canvas`, `websockets`, `rabbitmq` Jan 2013 - Aug 2013  
-* Perk browser `c++`, `objc` 	Jan 2013 - Aug 2013  
-* Perk browser autoupdate `google omaha`, `sparkle` 	Oct 2012 - Jan 2013  
+#### Jutera Labs  	Oct 2012 - present
+*Senior Software Engineer*
 
-#### Sierra Atlantic 	Hyderabad
-*Senior Consultant* 	Jun 2013 - Aug 2012  
+* OpenRTB Bidders for a Demand Side Platform `php`
+* Data Intelligence scripts over app usage data `hadoop`, `mahout`, `java`, `php`
+* Html5 games `yeoman`, `coffeescript`, `canvas`
+* Perk browser & extensions `c++`, `objc`, `canvas`, `websockets`, `rabbitmq`
+* Perk browser autoupdate `google omaha`, `sparkle`
 
-* Mobile applications `phonegap`, `javascript`, `sencha touch`	Jan 2012 - Aug 2012  
-* Sound Processing backend middle-man server for [Music Mastermind](www.musicmastermind.com) `c++`,
-`fastcgi`, `lame`, `streaming`, `audio-fingerprinting, aws` 	Jun 2010 - Jan 2012  
+#### Sierra Atlantic 	Jun 2013 - Aug 2012
+*Senior Consultant*
 
-#### GoLive Gaming Solutions 	Hyderabad
-*co-founder* 			Sep 2007 - Apr 2010  
+* Mobile applications `phonegap`, `javascript`, `sencha touch`
+* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`,
+`fastcgi`, `lame`, `streaming`, `audio-fingerprinting`, ` aws`
 
-* Game Consulting	Apr 2009 - Apr 2010  
-* Competitive Gaming League `dota`, `counter strike` 	Sep 2007 - Apr 2009  
+#### GoLive Gaming Solutions 	Sep 2007 - Apr 2010  
+*co-founder*
 
-#### ATI (now AMD)	Hyderabad
-*Enginer*	Feb 2006 - Aug 2007  
+* Game Consulting
+* Competitive Gaming League `dota`, `counter strike`
+
+#### ATI (now AMD) 	Feb 2006 - Aug 2007  
+*Enginer*
 
 * Game Performance Lab `starting member`  
 
-#### Infosys 	Hyderabad
-*Software Engineer*	Sep 2004 - Sep 2005  
+#### Infosys 	Sep 2004 - Sep 2005  
+*Software Engineer*
 
 * Visual Studio templating system `c#`  
 
-### Education
-#### International Institute of Information Technology	Hyderabad
-Bachelor of Technology in Computer Science and Engineering	April 2003
+### EDUCATION
 
-### Misc
+#### International Institute of Information Technology - Hyderabad
+Bachelor of Technology in Computer Science and Engineering, **April 2003**
+
+### MISC
 * Modest sample of programming interests at [github](https://github.com/ab-su-rd)  
 * Played for India at the World Cyber Games 2003 `age of empires`  
 * Development Environment `vim`, `tmux`, `unix`
