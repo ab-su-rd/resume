@@ -49,4 +49,4 @@ Bachelor of Technology in Computer Science and Engineering, **April 2003**
 ### MISC
 * Modest sample of programming interests at [github](https://github.com/ab-su-rd)  
 * Played for India at the World Cyber Games 2003 `age of empires`  
-* Development Environment `vim`, `tmux`, `unix`
+* Development Environment: `vim`, `tmux`, `unix`
