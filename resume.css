@@ -261,6 +261,10 @@ button::-moz-focus-inner {
 	text-align: center;
 }
 
+.right {
+	float: right;
+}
+
 a:link {
   color: #111111;
   font-weight: 400;
