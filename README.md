@@ -8,3 +8,4 @@ pandoc -f markdown -t html5 -S -c resume.css resume.md > resume.html
 ```
 pdf generated via chrome's print to pdf
 
+I could not automate a few `float:right` blocks
