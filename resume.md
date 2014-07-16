@@ -19,7 +19,7 @@ As part of a dynamic startup, I have had a variety of responsibilities.
 	I was the technical lead for the backend engineering team focussed on scaling a set of sound processing servers. Later on, I was an individual contributor working on hybrid mobile applications.
 
 * Mobile applications `phonegap`, `javascript`, `sencha touch`
-* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `lame`, `streaming`, `audio-fingerprinting`, `aws`
+* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `streaming`, `lame`, `audio-fingerprinting`, `aws`
 * Conducted the Hyderabad student programming contest `DOMjudge`
 
 #### GoLive Gaming Solutions 	Sep 2007 - Apr 2010  
