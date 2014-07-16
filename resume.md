@@ -10,22 +10,21 @@ Bangalore, India
 As part of a dynamic startup, I have had a variety of responsibilities.
 
 * [OpenRTB](http://openrtb.github.io/OpenRTB/) Bidders for a Demand Side Platform `php`
-* Data Intelligence scripts over app usage data `hadoop`, `mahout`, `java`, `php`
+* Data Intelligence scripts over app usage data `hadoop`, `mahout`, `php`
 * Html5 games `yeoman`, `coffeescript`, `canvas`
-* Perk browser & extensions `c++`, `objc`, `canvas`, `websockets`, `rabbitmq`
-* Perk browser autoupdate `google omaha`, `sparkle`
+* Perk browser `autoupdate`, `google omaha`, `sparkle`, `extensions`, `canvas`, `push-messaging`
 
 #### Sierra Atlantic 	Jun 2013 - Aug 2012
 *Senior Consultant*  
 	I was the technical lead for the backend engineering team focussed on scaling a set of sound processing servers. Later on, I was an individual contributor working on hybrid mobile applications.
 
-* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `lame`, `streaming`, `audio-fingerprinting`, ` aws`
 * Mobile applications `phonegap`, `javascript`, `sencha touch`
+* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `lame`, `streaming`, `audio-fingerprinting`, `aws`
 * Conducted the Hyderabad student programming contest `DOMjudge`
 
 #### GoLive Gaming Solutions 	Sep 2007 - Apr 2010  
 *co-founder*  
-	GoLive was gaming startup aimed at doing in india what [CPL](http://thecpl.com/) or [ESL](http://www.esl.eu/eu/) are doing in other parts of the world. Later on, we provided game consulting for clients in advertisement and medical domains.
+	GoLive was gaming startup aimed at doing in india what [CPL](http://thecpl.com/) or [ESL](http://www.esl.eu/eu/) are doing in other parts of the world. Later on, we provided game consulting for clients in advertisement and medical marketing.
 
 * Game Consulting
 * Competitive Gaming League `dota`, `counter strike`
