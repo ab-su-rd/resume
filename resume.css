@@ -1,109 +1,109 @@
 body{
-    margin: 0 auto;
-    font-family: Georgia, Palatino, serif;
-	color: #444444;
-    line-height: 17px;
-    max-width: 960px;
-	padding: 30px;
-	/*padding: 0 30px 0 30px;*/
-    font-size: 14px;
+  margin: 0 auto;
+  font-family: Georgia, Palatino, serif;
+  color: #444444;
+  line-height: 1.5;
+  max-width: 960px;
+  padding: 30px;
+  /*padding: 0 30px 0 30px;*/
+  font-size: 14px;
 }
 h1, h2, h3, h4 {
-    font-size: 14px;
-    font-weight: bold;
+  font-size: 14px;
+  font-weight: bold;
 }
 h2, h3 {
-	letter-spacing: 3px;
+  letter-spacing: 3px;
 }
 h1, h2, h4, h5, p {
-	margin-bottom: 24px;
-    font-size: 14px;
-    padding: 0;
+  margin-bottom: 24px;
+  font-size: 14px;
+  padding: 0;
 }
 h1 {
 }
 h2 {
-	margin-top: 4px;
-	margin-bottom: 8px;
+  margin-top: 4px;
+  margin-bottom: 8px;
 }
 h3 {
-    padding: 5px 0px 4px 0px;
-    line-height: 22px;
-    border-top: medium solid #444444;
-    border-bottom: thin solid #bebebe;
-    margin: 18px 0 8px 0;
+  padding: 5px 0px 4px 0px;
+  line-height: 22px;
+  border-top: medium solid #444444;
+  border-bottom: thin solid #bebebe;
+  margin: 18px 0 8px 0;
 }
 h4 {
-    margin: 0px;
+  margin: 0px;
 }
 h5 {
 }
 a {
-    color: #0099ff;
-    margin: 0;
-    padding: 0;
-    vertical-align: baseline;
+  color: #0099ff;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
 }
 p {
-	margin: 0px;
+  margin: 0px;
 }
 a:hover {
-    text-decoration: none;
-    color: #ff6600;
+  text-decoration: none;
+  color: #ff6600;
 }
 a:visited {
-    color: purple;
+  color: #111111;
 }
 ul, ol {
-    padding: 0;
-    margin: 0;
-    margin-bottom: 10px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 10px;
 }
 li {
 }
 li ul, li ul {
-    margin-left: 24px;
+  margin-left: 24px;
 }
 p, ul, ol {
-    max-width: 960px;
+  max-width: 960px;
 }
 pre {
-    padding: 0px 24px;
-    max-width: 800px;
-    white-space: pre-wrap;
+  padding: 0px 24px;
+  max-width: 800px;
+  white-space: pre-wrap;
 }
 code {
-    font-family: Source Code Pro, Consolas, Monaco, Andale Mono, monospace;
-    background-color: #eee;
-	text-shadow: -1px 0px 0px #eee;
+  font-family: Source Code Pro, Consolas, Monaco, Andale Mono, monospace;
+  background-color: #eee;
+  text-shadow: -1px 0px 0px #eee;
 }
 aside {
-    display: block;
-    float: right;
-    width: 390px;
+  display: block;
+  float: right;
+  width: 390px;
 }
 blockquote {
-    border-left:.5em solid #eee;
-    padding: 0 2em;
-    margin-left:0;
-    max-width: 476px;
+  border-left:.5em solid #eee;
+  padding: 0 2em;
+  margin-left:0;
+  max-width: 476px;
 }
 blockquote  cite {
-    color:#bfbfbf;
+  color:#bfbfbf;
 }
 blockquote cite:before {
-    content: '\2014 \00A0';
+  content: '\2014 \00A0';
 }
 
 blockquote p {  
-    color: #666;
-    max-width: 460px;
+  color: #666;
+  max-width: 460px;
 }
 hr {
-    width: 100%;
-    text-align: left;
-	margin: 0 auto 0 0;
-    color: #999;
+  width: 100%;
+  text-align: left;
+  margin: 0 auto 0 0;
+  color: #999;
 }
 
 /* Code below this line is copyright Twitter Inc. */
@@ -258,16 +258,16 @@ button::-moz-focus-inner {
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
 
 .right {
-	float: right;
+  float: right;
 }
 
 a:link {
   color: #111111;
-  font-weight: 400;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -276,9 +276,9 @@ a:hover {
 }
 
 .toprule {
-	margin-top: 16px;
+  margin-top: 16px;
 }
 
 .bottomrule {
-	margin-bottom: 12px;
+  margin-bottom: 12px;
 }
