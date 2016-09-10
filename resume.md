@@ -5,27 +5,28 @@ Bangalore, India
 
 ### PROFESSIONAL EXPERIENCE
 
-#### [Perk.com](https://perk.com)   Oct 2012 - present
+#### [Perk.com](https://perk.com/home)   Oct 2012 - present
 *Director of Engineering - Games*  
+    Currently working with a modest team to build support services around the [Corona](https://coronalabs.com) game development engine  
 
 - [Corona Labs](https://coronalabs.com)
-    * Game Monetization `full-stack` `react` `webpack` `laravel` `ad-networks`
-    * [Asset Store](https://marketplace.coronalabs.com) `full-stack` `laravel` `payments`
+    * Game Monetization `full-stack`, `react`, `webpack`, `laravel`, `ad-networks`
+    * [Asset Store](https://marketplace.coronalabs.com) `full-stack`, `laravel`, `payments`
 - [Perk.com](https://perk.com)
-    * Penny Auctions `nodejs` `webapp` `hybrid-app` `laravel`
-    * Scratch card games `laravel` `slot-machine`
-    * Html5 games `yeoman` `coffeescript` `canvas`
+    * Penny Auctions `nodejs`, `webapp`, `hybrid-app`, `laravel`
+    * [Scratch card games](https://itunes.apple.com/us/app/perk-scratch-win!/id943994626?mt=8) `laravel`, `slot-machine`
+    * Html5 games `yeoman`, `coffeescript`, `canvas`
     * [OpenRTB](http://openrtb.github.io/OpenRTB/) Bidders for a Demand Side Platform `php`
-    * Data Intelligence scripts over app usage data `hadoop` `mahout` `php`
-    * Perk browser `autoupdate` `google-omaha` `sparkle` `extensions` `canvas` `push-messaging`
+    * Data Intelligence scripts over app usage data `hadoop`, `mahout`, `php`
+    * Perk browser `autoupdate`, `google-omaha`, `sparkle`, `extensions`, `canvas`, `push-messaging`
 
-#### [Sierra Atlantic](https://www.linkedin.com/company/sierra-atlantic) 	Jun 2013 - Aug 2012
+#### [Sierra Atlantic](https://www.linkedin.com/company/sierra-atlantic) 	Jun 2010 - Aug 2012
 *Senior Consultant*  
 	Technical lead for the backend engineering team focused on scaling a set of sound processing servers.  
 	Worked as an individual contributor on hybrid mobile applications for our clients.
 
-* Mobile applications `phonegap` `javascript` `sencha-touch`
-* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++` `fastcgi` `streaming` `lame` `audio-fingerprinting` `aws`
+* Mobile applications `phonegap`, `javascript`, `sencha-touch`
+* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `streaming`, `lame`, `audio-fingerprinting`, `aws`
 * Conducted the Hyderabad student programming contest `DOMjudge`
 
 #### GoLive Gaming Solutions 	Sep 2007 - Apr 2010
@@ -34,16 +35,16 @@ Bangalore, India
 	GoLive also provided game consulting for clients in advertisement and medical marketing.
 
 * Game Consulting `game-development`
-* Competitive Gaming League `dota` `counter-strike`
+* Competitive Gaming League `dota`, `counter-strike`
 
 #### [ATI](https://amd.com) (now [AMD](https://amd.com)) 	Feb 2006 - Aug 2007
 *Lead Enginer*  
 	Recruited to start and lead the Game Performance Lab at Hyderabad.  
 	Worked with the marketing and hardware driver teams to report on in-house and comparable competitor performance.
 
-* Game Performance Lab `starting-member` `performance`
+* Game Performance Lab `starting-member`, `performance`
 
-#### Infosys 	Sep 2004 - Sep 2005
+#### [Infosys](https://www.infosys.com) 	Sep 2004 - Sep 2005
 *Software Engineer*
 
 * Visual Studio templating system `c#`
@@ -51,9 +52,9 @@ Bangalore, India
 ### EDUCATION
 
 #### International Institute of Information Technology - Hyderabad
-Bachelor of Technology in Computer Science and Engineering, **April 2003**
+Bachelor of Technology in Computer Science, **April 2003**
 
 ### MISC
 * Modest sample of programming interests at [github](https://github.com/ab-su-rd)
 * Played for India at the World Cyber Games 2003 `age-of-empires`
-* Development Environment: `vim` `tmux` `unix` `intellij`
+* Development Environment: `vim`, `tmux`, `unix`, `intellij`
