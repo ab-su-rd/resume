@@ -16,7 +16,7 @@ Bangalore, India
     * Penny Auctions `nodejs`, `webapp`, `hybrid-app`, `laravel`
     * [Scratch card games](https://itunes.apple.com/us/app/perk-scratch-win!/id943994626?mt=8) `laravel`, `slot-machine`
     * Html5 games `yeoman`, `coffeescript`, `canvas`
-    * [OpenRTB](http://openrtb.github.io/OpenRTB/) Bidders for a Demand Side Platform `php`
+    * [OpenRTB](http://openrtb.github.io/OpenRTB/) Bidders for a Demand Side Platform `ortb`, `php`
     * Data Intelligence scripts over app usage data `hadoop`, `mahout`, `php`
     * Perk browser `autoupdate`, `google-omaha`, `sparkle`, `extensions`, `canvas`, `push-messaging`
 
@@ -52,7 +52,7 @@ Bangalore, India
 ### EDUCATION
 
 #### International Institute of Information Technology - Hyderabad
-Bachelor of Technology in Computer Science, **April 2003**
+Bachelor of Technology in Computer Science **April 2003**
 
 ### MISC
 * Modest sample of programming interests at [github](https://github.com/ab-su-rd)
