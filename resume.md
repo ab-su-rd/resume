@@ -26,7 +26,7 @@ Bangalore, India
 	Worked as an individual contributor on hybrid mobile applications for our clients.
 
 * Mobile applications `phonegap`, `javascript`, `sencha-touch`
-* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `streaming`, `lame`, `audio-fingerprinting`, `aws`
+* Sound Processing backend middle-man server for [Music Mastermind](http://www.musicmastermind.com) `c++`, `fastcgi`, `streaming`, `lame`, `audio-fingerprinting`, `aws`  
 * Conducted the Hyderabad student programming contest `DOMjudge`
 
 #### GoLive Gaming Solutions 	Sep 2007 - Apr 2010
